@@ -1,1 +1,3 @@
-guardrails-ai
+fuzzysearch
+guardrails-ai==0.6.4
+guardrails-api==0.1.0a2

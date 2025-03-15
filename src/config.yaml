@@ -1,0 +1,9 @@
+validator:
+  ban_list:
+    banned_words: ["dammit"]
+    max_l_dist: 0
+    on_fail: "noop"
+
+api:
+  client:
+    openai_api_base: "http://127.0.0.1:8000"
